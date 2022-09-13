@@ -15,5 +15,6 @@ int main() {
 	printf("running GCD(1845,102465)");
 	int a = gcd(1845, 102465);
 	printf("\nResult: %d",a);
+	printf("\n");
 }
 
