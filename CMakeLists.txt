@@ -3,4 +3,4 @@ project(303hw1)
 
 set(CMAKE_CXX_STANDARD 23)
 
-add_executable(303hw1 main.cpp)
+add_executable(303hw1 main.c)
